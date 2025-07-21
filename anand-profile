@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Anand Joshi - Personal Website" />
+  <title>Anand Joshi | Personal Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #1c1c1c;
+      color: white;
+      padding: 40px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: #2a2a2a;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    }
+    h1 {
+      color: #f39c12;
+    }
+    a {
+      color: #00acee;
+      text-decoration: none;
+    }
+    .footer {
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🙏 Jai Shri Ram! <br/> I’m Anand Joshi</h1>
+    <p><strong>📍 Address:</strong> Surana, Diyodar, Banaskantha, Gujarat</p>
+    <p><strong>📷 Instagram:</strong> 
+      <a href="https://instagram.com/anand_surana_16" target="_blank">@anand_surana_16</a>
+    </p>
+    <p>Welcome to my personal website. I created this to share about myself online — in a simple and modern way!</p>
+
+    <div class="footer">
+      © 2025 Anand Joshi
+    </div>
+  </div>
+</body>
+</html>
